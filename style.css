@@ -231,7 +231,7 @@ nav a:hover{
         .mobile-nav {
             display: none;
             position: fixed;
-             top: 68px;
+             top: 65px;
             left: 0;
             width: 100%;
             background: #fff;
